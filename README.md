@@ -25,23 +25,23 @@ When many tents are built together, they can upgrade into a house.
 
 ## Controls:
 
-WASD   - Camera movement
-Space  - Camera Up
-LShift - Camera Down
+WASD   - Camera movement  
+Space  - Camera Up  
+LShift - Camera Down  
 	
-Up Arrow   - Pitch camera up
-Down Arrow - Pitch camera down
+Up Arrow   - Pitch camera up  
+Down Arrow - Pitch camera down  
 	
-UI Buttons - Select what to spawn
-Left Mouse - Spawn the selected object
+UI Buttons - Select what to spawn  
+Left Mouse - Spawn the selected object  
 	
 	
 ## Placeable Objects:
 
-Water Canister - provides water to humans and creatures
-Tree - Provides food to humans and creatures. Can be chopped to build 5 tents.
-Human - Usual Joe Shmoe
-Creature - Sideways-walking pooper
+Water Canister - provides water to humans and creatures  
+Tree - Provides food to humans and creatures. Can be chopped to build 5 tents.  
+Human - Usual Joe Shmoe  
+Creature - Sideways-walking pooper  
   
 ---
 
