@@ -5,19 +5,19 @@ Quick-ish implementation of GOAP and a small game to go around it
 
 The AI are funny things.
 	The creatures: 
-		Eat
-		Drink
-		Poop
-		Wander
-		and Nap in available buildings
+		*Eat
+		*Drink
+		*Poop
+		*Wander
+		*and Nap in available buildings
 		
 		Their poop will grow into trees over time.
 
 	The Humans:
-		Eat
-		Drink
-		Chop Trees
-		Build Buildings
+		*Eat
+		*Drink
+		*Chop Trees
+		*Build Buildings
 		
 		When many tents are built together, they can upgrade into a house.
 
