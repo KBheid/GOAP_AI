@@ -10,7 +10,6 @@ The creatures:
 	*Poop
 	*Wander
 	*and Nap in available buildings
-		
 	Their poop will grow into trees over time.
 
 The Humans:
